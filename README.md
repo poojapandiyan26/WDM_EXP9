@@ -30,11 +30,10 @@ for this purpose.
 
 ### Output:
 
-![Screenshot 2025-03-15 143659](https://github.com/user-attachments/assets/36c5be4d-28dd-4228-8304-13a0312470c2)
+<img width="1919" height="1133" alt="image" src="https://github.com/user-attachments/assets/620994a7-43cb-4696-882b-37ee15430ece" />
+<img width="1919" height="1144" alt="image" src="https://github.com/user-attachments/assets/ec965efb-8c6b-4853-a218-271b1a6f01d7" />
+<img width="1919" height="1132" alt="image" src="https://github.com/user-attachments/assets/d5fe8c85-1cd7-4533-a2f8-750d0697dc4e" />
 
-![Screenshot 2025-03-15 143634](https://github.com/user-attachments/assets/eee399fe-cc9f-45d0-a167-bcef635df4ad)
-
-![Screenshot 2025-03-15 144109](https://github.com/user-attachments/assets/e1782465-3b9a-41be-9c01-c9a908ed43f9)
 
 ### Result:
 
